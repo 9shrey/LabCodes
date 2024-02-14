@@ -36,3 +36,10 @@ dbms_output.put_line('Letter Grade is :'||stu_lettergrade);
 end;
 /
 
+-- Enter value for roll_number: 3
+-- old   9: stu_rollno := '&Roll_Number';
+-- new   9: stu_rollno := '3';
+-- Input Roll Number is : 3
+-- Letter Grade is :F
+
+-- PL/SQL procedure successfully completed.

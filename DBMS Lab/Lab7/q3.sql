@@ -38,3 +38,10 @@ dbms_output.put_line('Fine is :'||fine);
 end;
 /
 
+-- Enter value for issue_no: 3
+-- old   9: issueno := '&Issue_No';
+-- new   9: issueno := '3';
+-- Input Issue Number is : 3
+-- Fine is :36600
+
+-- PL/SQL procedure successfully completed.

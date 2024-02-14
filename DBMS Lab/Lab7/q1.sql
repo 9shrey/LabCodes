@@ -25,3 +25,11 @@ dbms_output.put_line('GPA is :'||stu_gpa);
 
 end;
 /
+
+-- Enter value for roll_number: 3
+-- old   8: stu_rollno := '&Roll_Number';
+-- new   8: stu_rollno := '3';
+-- Input Roll Number is : 3
+-- GPA is :3.4
+
+-- PL/SQL procedure successfully completed.
